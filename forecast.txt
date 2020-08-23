@@ -1,0 +1,10 @@
+Weather forecast in New York NY:
+Today | Mostly Sunny | High: 83 °F | Today: Mostly sunny, with a high near 83. Light southwest wind becoming south 5 to 9 mph in the morning. 
+Tonight | Mostly Cloudy | Low: 76 °F | Tonight: Mostly cloudy, with a low around 76. South wind 5 to 7 mph. 
+Monday | Mostly CloudythenScatteredT-storms | High: 88 °F | Monday: Scattered showers and thunderstorms after 3pm.  Partly sunny, with a high near 88. Southwest wind 3 to 8 mph.  Chance of precipitation is 30%.
+MondayNight | Slight ChanceT-storms thenPartly Cloudy | Low: 76 °F | Monday Night: A 20 percent chance of showers and thunderstorms before 10pm.  Partly cloudy, with a low around 76. West wind around 8 mph. 
+Tuesday | Mostly Sunnythen ChanceT-storms | High: 88 °F | Tuesday: A 30 percent chance of showers and thunderstorms after 2pm.  Mostly sunny, with a high near 88. West wind 7 to 14 mph. 
+TuesdayNight | ChanceT-storms thenPartly Cloudy | Low: 71 °F | Tuesday Night: A 30 percent chance of showers and thunderstorms before 8pm.  Partly cloudy, with a low around 71.
+Wednesday | Sunny | High: 80 °F | Wednesday: Sunny, with a high near 80.
+WednesdayNight | Partly Cloudy | Low: 69 °F | Wednesday Night: Partly cloudy, with a low around 69.
+Thursday | Mostly Sunny | High: 84 °F | Thursday: Mostly sunny, with a high near 84.
